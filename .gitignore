@@ -1,0 +1,8 @@
+.vscode/
+*.out
+output
+*.class
+*.exe
+test.*
+*.sh
+.DS_Store
